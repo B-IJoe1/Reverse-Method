@@ -1,8 +1,12 @@
 # Reverse-Method
 
+
+
 public static void reverse()
+
 {
 	int revnum=0;
+	
 	Scanner input=new Scanner(System.in);
 	System.out.println("Please enter a number");
 	int num=input.nextInt();
